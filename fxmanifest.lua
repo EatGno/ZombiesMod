@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Votre Nom'
+author 'parisrp'
 description 'Mod de zombies pour FiveM'
 version '1.0.0'
 
